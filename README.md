@@ -6,7 +6,7 @@
 
 - **Figma Prototype**: [View Interactive Prototype](https://www.figma.com/proto/MHt6QPdmr1lKvJYiLMA1Tx/Front-End-Dev.-Assignment?node-id=18-359&t=zBxmnGAVesIoniIU-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=18%3A359)
 - **Figma Design Pages**: [View Design Files](https://www.figma.com/design/MHt6QPdmr1lKvJYiLMA1Tx/Front-End-Dev.-Assignment?node-id=0-1&p=f)
-- **Live Demo**: [Deployed on Vercel](#) _(To be added after deployment)_
+- **Live Demo**: [Deployed on Vercel](https://the-wedding-company-assignment.vercel.app/) 
 
 ## 🚀 Tech Stack
 
